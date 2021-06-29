@@ -6,3 +6,10 @@ body{
 	font-size: 18px;
 	color: #444;
 }
+.navbar{
+	float: left;
+	position: absolute;
+}
+span{
+	color: #c0392b;
+}
